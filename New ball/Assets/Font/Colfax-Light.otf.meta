@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ce11f59b0fa44fc40802fcc7d7b3cc99
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Colfax
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 49f8e175c1bfad44480ab54fd8532316, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
